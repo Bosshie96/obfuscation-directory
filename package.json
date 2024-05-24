@@ -1,0 +1,23 @@
+{
+	"name": "obfuscation_directory",
+	"version": "1.0.0",
+	"description": "Obfuscation a directory project to security code before release project.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"author": "bosshie96",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Bosshie96/obfuscation-directory.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Bosshie96/obfuscation-directory/issues"
+	},
+	"homepage": "https://github.com/Bosshie96/obfuscation-directory#readme",
+	"devDependencies": {
+		"javascript-obfuscator": "^4.1.0"
+	}
+}
